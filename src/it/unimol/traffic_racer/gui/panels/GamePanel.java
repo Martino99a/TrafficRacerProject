@@ -111,9 +111,9 @@ public class GamePanel extends JPanel implements ActionListener {
             g.setColor(Color.red);
             g.setFont(new Font("Arial", Font.BOLD, 27));
             g.drawString(Integer.toString(GamePanel.getInstance().getPoints()),630, 65);
-
         }
     }
+
     public void newGame(){
         this.player.setDead(false);
         this.coordinate = new Point(370,478);
