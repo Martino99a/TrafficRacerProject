@@ -26,7 +26,7 @@
                 <version>3.8.0</version>
                 <configuration>
                     <release>
-                        12
+                        11
                     </release>
                 </configuration>
             </plugin>
