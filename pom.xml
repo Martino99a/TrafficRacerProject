@@ -15,7 +15,6 @@
             <resource>
                 <directory>${project.basedir}/resources</directory>
             </resource>
-
         </resources>
         <sourceDirectory>${project.basedir}/src</sourceDirectory>
         <plugins>
